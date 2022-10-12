@@ -7,7 +7,9 @@ public class Calisma {
         System.out.println("Sirin");
 
 
-        //Abdullah'a selam olsun
+
+
+
 
     }
 
