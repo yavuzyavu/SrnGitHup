@@ -6,6 +6,9 @@ public class Calisma {
         System.out.println("hillli lllihhh");
         System.out.println("Sirin");
 
+
+        //Abdullah'a selam olsun
+
     }
 
 }
